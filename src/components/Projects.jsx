@@ -42,8 +42,7 @@ const Projects = () => {
             title="Portfolio Website"
             para="Personal portfolio website created with react and Tailwind CSS"
             img={Portfolio}
-            link=""
-            github_link="/"
+            github_link="https://github.com/eme40/Anayo-Portfolio.git"
             react={
               <Tooltip title="React" arrow>
                 <IconButton>
