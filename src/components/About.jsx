@@ -19,7 +19,7 @@ const About = () => {
             </span>
 
             <p className="ABOUT h-[120px] text-xl max-sm:text-[15px] bg-clip-text text-transparent  bg-gradient-to-r  from-[#00040f] to-slate-500 dark:from-slate-500 dark:to-slate-200 max-w-[470px] mt-5 pl-1">
-            I'm a motivated Software Engineer dedicated to ongoing learning and growth, 
+            I'm a motivated Software Developer dedicated to ongoing learning and growth, 
             seeking opportunities to contribute effectively to innovative organisations.
             </p>
           </div>
